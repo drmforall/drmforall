@@ -28,4 +28,9 @@ A Windows desktop workspace with dedicated movie and show controls, quality sele
 
 Visit the **[public portfolio](https://drmforall-portfolio.priyankzindahai.chatgpt.site)** for a closer look at the interface and downloadable packages.
 
+<p align="center"><img src="assets/avatar.png" width="88" alt="drmforall signature avatar" /></p>
+
+<p align="center"><strong>drmforall</strong><br/>Desktop tools · thoughtful interfaces · practical documentation</p>
+
 <p align="center">Built around real projects. Designed with care.</p>
+
