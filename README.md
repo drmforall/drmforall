@@ -1,7 +1,6 @@
 <p align="center"><img src="assets/profile-banner.svg" alt="drmforall — Useful tools. Considered details." width="100%" /></p>
 
 <p align="center">
-  <a href="https://drmforall-portfolio.priyankzindahai.chatgpt.site">Explore the portfolio ↗</a> &nbsp; · &nbsp;
   <a href="https://github.com/drmforall/o11-nf-tool">Featured project</a> &nbsp; · &nbsp;
   <a href="https://github.com/drmforall/o11-nf-tool/releases/tag/v1.0.1">Latest release</a>
 </p>
@@ -26,11 +25,12 @@ A Windows desktop workspace with dedicated movie and show controls, quality sele
 | :--- | :--- | :--- |
 | Clear controls, distinct modes, and visible application activity. | Multiple package formats for different installation preferences. | Real screenshots, feature descriptions, setup instructions, and compatibility notes. |
 
-Visit the **[public portfolio](https://drmforall-portfolio.priyankzindahai.chatgpt.site)** for a closer look at the interface and downloadable packages.
+Explore the **[project repository](https://github.com/drmforall/o11-nf-tool)** for screenshots, documentation, and downloadable packages.
 
 <p align="center"><img src="assets/avatar.png" width="88" alt="drmforall signature avatar" /></p>
 
 <p align="center"><strong>drmforall</strong><br/>Desktop tools · thoughtful interfaces · practical documentation</p>
 
 <p align="center">Built around real projects. Designed with care.</p>
+
 
